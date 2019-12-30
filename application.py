@@ -28,7 +28,7 @@ welcome = """
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>David Whiteley</title>
-  <link rel="stylesheet" type="text/css" href="dw.css">
+  <link rel="stylesheet" type="text/css" href="app.css">
 </head>
 <body>
   <div>
